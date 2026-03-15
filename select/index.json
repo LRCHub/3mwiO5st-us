@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Stronger",
+  "base_artist": "Kanye West",
+  "createdAt": "2026-03-15T14:36:45.364957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Bit Stronger",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/01_A_Little_Bit_Stronger_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love a Little Stronger",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/02_Love_a_Little_Stronger_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love a Little Stronger",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/03_Love_a_Little_Stronger_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Something a Lil' Stronger (feat. Mitchell Tenpenny & Jon Langston)",
+      "artist": "HIXTAPE feat. HARDY, Mitchell Tenpenny & Jon Langston",
+      "has_synced": false,
+      "path": "select/04_Something_a_Lil'_Stronger_(feat._Mitchell_Tenpenny_&_Jon_Langston)_HIXTAPE_feat._HARDY,_Mitchell_Tenpenny_&_Jon_Langston.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Something A Lil' Stronger (HARDY feat. Mitchell Tenpenny, Jon Langston)",
+      "artist": "HIXTAPE",
+      "has_synced": false,
+      "path": "select/05_Something_A_Lil'_Stronger_(HARDY_feat._Mitchell_Tenpenny,_Jon_Langston)_HIXTAPE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Didn't Kill Me Just Got Stronger",
+      "artist": "A Lot Like Birds",
+      "has_synced": true,
+      "path": "select/06_What_Didn't_Kill_Me_Just_Got_Stronger_A_Lot_Like_Birds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stronger Than I Was",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/07_Stronger_Than_I_Was_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Need Something Stronger",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/08_I_Need_Something_Stronger_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Getting Stronger",
+      "artist": "DeBarge",
+      "has_synced": false,
+      "path": "select/09_It's_Getting_Stronger_DeBarge.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stronger Than Before",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/10_Stronger_Than_Before_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stronger Together",
+      "artist": "Shannon",
+      "has_synced": false,
+      "path": "select/11_Stronger_Together_Shannon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That Made Me Stronger",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/12_That_Made_Me_Stronger_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Around the World / Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/13_Around_the_World___Harder,_Better,_Faster,_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Around The World \u0000 Harder Better Faster Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/14_Around_The_World_\u0000_Harder_Better_Faster_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/15_Harder,_Better,_Faster,_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger (Album Version)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/16_Harder_Better_Faster_Stronger_(Album_Version)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger (Alive 2007 Extended)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/17_Harder_Better_Faster_Stronger_(Alive_2007_Extended)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger (Alive 2007) (Extended)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/18_Harder_Better_Faster_Stronger_(Alive_2007)_(Extended)_Daft_Punk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stronger",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_Stronger_Kanye_West.txt"
+    }
+  ]
+}
